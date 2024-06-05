@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ConfusedKlutz
-- 👀 I’m interested in learning programming and everything that comes with it
-- 🌱 I’m currently pursuing a bachelor's degree in Computer science and engineering
+- 👋 Hi, I’m Chetan
+- 👀 I’m interested in learning Computer Science and everything that comes with it
+- 🌱 I’m currently pursuing a bachelor's degree in Computer Science and Engineering
 - 💞️ I’m looking forward to collaborate on any project 
 - 📫 How to reach me chetanbishtmonsterhouse@gmail.com
   
