@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++, HTML, CSS, JS**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **cbisht2004@gmail.com**
 
