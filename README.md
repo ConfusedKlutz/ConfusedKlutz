@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image_processing20200201-23173-1xj6d8g.gif" alt="Internet Technology Illustration GIF" width="300" height="auto">
+</p>
+
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">Crafting Creative Realms Through Design and Imagination</h3>
 
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **cbisht2004@gmail.com**
 
-- ⚡ Fun fact **"You're entirely bonkers. But I'll tell you a secret. All the best people are."**
+- ⚡ Fun fact **You're entirely bonkers. But I'll tell you a secret. All the best people are...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
