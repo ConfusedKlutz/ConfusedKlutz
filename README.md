@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-<h4 align="center">Just another Computer Science student trying to figure stuff out- 
-  exploring code, creativity and everything in between... </h4>
+<h3 align="center">Just another Computer Science student trying to figure stuff out, exploring code, creativity and everything in between... </h3>
 
 
 - 🔭 I’m currently working on **a Facial Recognition System**
