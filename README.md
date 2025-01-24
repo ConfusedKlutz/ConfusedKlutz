@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 align="center">Crafting Creative Realms Through Design and Imagination</h3>
+<h3 align="center">Just another Computer Science student trying to figure stuff out- exploring code, creativity and everything in between... </h3>
 
 
-- 🔭 I’m currently working on **a Movie Recommendation System**
+- 🔭 I’m currently working on **a Facial Recognition System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C++, HTML, CSS, JavaScript**
 
