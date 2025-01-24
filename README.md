@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">Crafting Creative Realms Through Design and Imagination</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=confusedklutz&label=Profile%20views&color=0e75b6&style=flat" alt="confusedklutz" /> </p>
-
 - 🔭 I’m currently working on **a Movie Recommendation System**
 
 - 🌱 I’m currently learning **React**
