@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **cbisht2004@gmail.com**
+- 📫 How to reach me **cbisht_be22@gmail.com**
 
 - ⚡ Fun fact **You're entirely bonkers. But I'll tell you a secret. All the best people are...**
 
